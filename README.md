@@ -1,2 +1,2 @@
-# civil
+# Civil
 This website provides students with easy access to academic materials such as notes (PDFs), session papers, practical records, sample project files, and certificates. All resources are organized by department and can be viewed or downloaded directly from the site.
